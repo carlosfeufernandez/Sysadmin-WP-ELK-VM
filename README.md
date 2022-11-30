@@ -1,9 +1,9 @@
 # sysadmin-carlosfeu
 Práctica sysadmin Carlos Feu Fernández
 
--El primer paso, es clonar el repositorio de GitHub: https://github.com/carlosfeufernandez/Sysadmin-WP-ELK-VM.git
+-El primer paso, es clonar el repositorio de GitHub: https://github.com/carlosfeufernandez/sysadmin-carlosfeu.git
 
--El segundo paso, a través de la terminal entramos en Sysadmin-WP-ELK-VM/WP-ELK-VM. Una vez dentro lanzamos el comando vagrant up para levantar las 2 máquinas.
+-El segundo paso, a través de la terminal entramos en sysadmin-carlosfeu/WP-ELK-VM. Una vez dentro lanzamos el comando vagrant up para levantar las 2 máquinas.
 
  En el código de la provisión de discos de ambas máquinas, se encuentra comentado el comando "shutdown -r now" para en caso de querer realizarlo veremos que aparece el disco ya que se ha metido la entrada en el fstab.
 
